@@ -1,12 +1,12 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>3.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/zucarichard/VidaLoka/master/TestApp.exe</url> 
+        <version>2.0.0.0</version> 
+        <url>https://raw.githubusercontent.com/zucarichard/VidaLoka/master/VidaLokaLoader.exe</url> 
         <filePath>./TestApp</filePath>
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
-        <description>Update: 10/06/2018:
-        1. Updated a label.</description> 
+        <description>Update: 03/11/2018:
+        1. Update System.</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
