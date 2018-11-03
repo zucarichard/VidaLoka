@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<SharpUpdate>
+    <update appId="VidaLokaLoader">
+	<version>2.0.0.0</version>
+	<url>https://github.com/zucarichard/VidaLoka/raw/master/VidaLokaLoader.exe</url>
+	<fileName>VidaLokaLoader.exe</fileName>
+	<md5>1084a8586722b57feca6149840c0d63b</md5>
+	<description>Novo Sistema de Updates :D</description>
+	<launchArgs></launchArgs>
+	</update>
+</SharpUpdate>
