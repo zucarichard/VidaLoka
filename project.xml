@@ -1,7 +1,7 @@
-<?xml version="1.0"?> 
+<?xml version="3.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>2.0.0.0</version> 
+        <version>4.0.0.0</version> 
         <url>https://raw.githubusercontent.com/zucarichard/VidaLoka/master/VidaLokaLoader.exe</url> 
         <filePath>./VidaLokaLoader</filePath>
         <md5>8667c2df5fe4ad3dec45627d04e7fc40</md5>
